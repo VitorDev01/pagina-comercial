@@ -294,7 +294,7 @@
               
               <p>Caso haja <mark>insatisfação da sua parte seu dinheiro é devolvido e você perde outras chances de se consultar futuramente.</mark></p>
              
-             <h1> Metodos de Pagamento</h1>
+             <h1> Métodos de Pagamento</h1>
              <p> • Pix & Boeloto Bancário </p>
              <br>
              <p><mark>(!A consulta só é feita após a formulação das perguntas e do pagamento!)</mark></p>
